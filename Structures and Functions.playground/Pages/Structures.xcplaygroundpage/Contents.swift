@@ -102,7 +102,7 @@ func distance(from: Point, to: Point) -> Double{
 
 
 // Invoke the new function here
-distance(from: 0.0 , to: 3.0 )
+distance(from: 0,0 , to: 3,0 )
 /*:
  [Next](@next)
  */
